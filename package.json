@@ -1,0 +1,16 @@
+{
+  "name": "mysampleapp",
+  "version": "1.0.0",
+  "description": "This is a sample Application to learn Native Script with Single Page Application\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/govindsk82/learnnativescript.git"
+  },
+  "keywords": [],
+  "author": "GovindSK",
+  "license": "MIT"
+}
